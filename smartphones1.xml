@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Iphone" model="13 " releaseYear="2021">
+        <specs>
+            <screenSize unit="inch">6</screenSize>
+            <batteryCapacity unit="mAh">2500</batteryCapacity>
+            <storage unit="GB">120</storage>
+            <camera unit="MP">25</camera>
+        </specs>
+        <price currency="zl">2500</price>
+    </smartphone>
+</smartphones>
